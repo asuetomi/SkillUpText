@@ -1,0 +1,3 @@
+INFO:root:main.py call myprocess1 function
+INFO:root:myprocess.py process1 start
+INFO:root:__main__main function exit

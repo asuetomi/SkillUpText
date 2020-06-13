@@ -1,0 +1,5 @@
+ERROR:root:test exception message :[1, 3, 6]
+Traceback (most recent call last):
+  File "logexception.py", line 6, in <module>
+    raise Exception
+Exception

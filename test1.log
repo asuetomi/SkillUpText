@@ -1,0 +1,5 @@
+DEBUG:root:logfile open
+INFO:root:test info output
+WARNING:root:test warning output
+WARNING:root:test warning output : level = worning
+WARNING:2020-06-10 23:49:09,400:test warning format output
